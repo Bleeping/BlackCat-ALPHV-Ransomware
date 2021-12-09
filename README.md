@@ -1,4 +1,4 @@
-# BlackCat-ALPHV-Ransomware
+# ALPHV BlackCat Ransomware
 
 JSON Configuration used by ALPHV BlackCat ransomware.
 
